@@ -1,4 +1,3 @@
-Here's a sample **README** file for your GitHub repository based on your real estate data science project:
 
 ---
 
@@ -82,4 +81,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-You can modify the sections as needed based on the specifics of your project. This template should provide a clean and informative overview of your repository.
